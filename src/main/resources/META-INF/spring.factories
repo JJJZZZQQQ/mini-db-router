@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.github.jjjzzzqqq.mini.db.router.config.DataSourceAutoConfig
